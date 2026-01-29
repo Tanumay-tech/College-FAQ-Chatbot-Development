@@ -1,2 +1,14 @@
-# College-FAQ-Chatbot-Development
-A multi-stage FAQ Chatbot developed as a college project to assist students with institute-related queries. This project demonstrates the progression from basic rule-based systems to advanced NLP retrieval techniques. Built using Python and Streamlit.
+# College FAQ Chatbot Development
+
+A multi-stage chatbot project developed for our institute. This project tracks the evolution of a chatbot from simple rule-based logic to advanced NLP retrieval.
+
+## 🚀 Roadmap
+- **Week 1:** Basic FAQ Responder (Pattern Matching) - **Completed**
+- **Week 2:** Preprocessing Student Queries (NLP Pipeline)
+- **Week 3:** Synonym-Aware FAQ Bot
+- **Week 4:** FAQ Retrieval with TF-IDF
+
+## 🛠️ How to Run
+1. Clone the repo: `git clone [Your-Repo-Link]`
+2. Install requirements: `pip install -r requirements.txt`
+3. Run the app: `streamlit run week1.py`
