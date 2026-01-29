@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-link-here.streamlit.app](https://faq-chatbot-development.streamlit.app/)
 # College FAQ Chatbot Development
 
 A multi-stage chatbot project developed for our institute. This project tracks the evolution of a chatbot from simple rule-based logic to advanced NLP retrieval.
