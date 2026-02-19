@@ -1,15 +1,14 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://faq-chatbot-development.streamlit.app/)
-# College FAQ Chatbot Development
+# College FAQ Chatbot - First 5 Topics
 
-A multi-stage chatbot project developed for our institute. This project tracks the evolution of a chatbot from simple rule-based logic to advanced NLP retrieval.
+This repository contains the progressive development of a College FAQ Chatbot, submitted as part of the Chatbot Development course at Symbiosis Institute of Technology, Nagpur.
 
-## 🚀 Roadmap
-- **Week 1:** Basic FAQ Responder (Pattern Matching) - **Completed**
-- **Week 2:** Preprocessing Student Queries (NLP Pipeline)
-- **Week 3:** Synonym-Aware FAQ Bot
-- **Week 4:** FAQ Retrieval with TF-IDF
+## 📋 Topics Covered
+1. **Week 1: Rule-Based Bot** - Basic if-else matching for 10-15 institute FAQs.
+2. **Week 2: NLP Preprocessing** - Implementation of tokenization, stopword removal, and punctuation handling.
+3. **Week 3: Synonym-Aware Bot** - Using keyword groups to map similar terms (e.g., "tuition" -> "fees").
+4. **Week 4: TF-IDF Retrieval** - Using cosine similarity to find the best-matched answer from a dataset.
+5. **Week 5: Intent Classification** - Categorizing queries into "Admissions," "Exams," or "Hostel" buckets.
 
-## 🛠️ How to Run
-1. Clone the repo: `git clone (https://github.com/Tanumay-tech/College-FAQ-Chatbot-Development)`
-2. Install requirements: `pip install -r requirements.txt`
-3. Run the app: `streamlit run week1.py`
+## 🚀 How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the main app: `streamlit run app.py`
